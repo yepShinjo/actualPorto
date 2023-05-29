@@ -16,7 +16,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#915eff]">Prema</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop Django and Flask application <br className='sm:block hidden' />3D visuals and web application
+            I develop Django and Flask application <br className='sm:block hidden' />React with Three.JS and web application
 
           </p>
         </div>
